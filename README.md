@@ -20,9 +20,11 @@ The key elements in rolling-element bearings are:
 
 According to several studies (e.g. Thorson and Dalva (1995), Bonnett and Yung (2008), and IEEE (1985)) bearing faults are the major cause of failure in electro-mechanical drive systems and motors, causing an estimated 45-70% of all drive and motor failures. These failures are often expensive because of:
 
-The cost to repair equipment
-The cost of machinery downtime
-The cost of any material wastage that is caused by such a failure
+-The cost to repair equipment
+
+-The cost of machinery downtime
+
+-The cost of any material wastage that is caused by such a failure
 
 In recent years, the Industry 4.0 paradigm has meant that gathering data from connected sensors has become cheaper and more widespread. Many different machine operating variables can now be monitored remotely in real-time, giving rise to an explosion of available data. However, a key challenge within this Industry 4.0 paradigm is to be able to make intelligent use of the copious amounts of data being generated for applications such as fault diagnosis, remote condition monitoring, and preventative maintenance.
 
