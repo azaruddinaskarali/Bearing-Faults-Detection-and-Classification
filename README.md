@@ -7,7 +7,7 @@ Rolling-element bearings are one of the most common components in industrial mac
 
 A typical rolling element bearing looks like:
 
-![image](https://github.com/azaruddinaskarali/Bearing-Faults-Detection-and-Classification/blob/main/REB.png?raw=true
+![image](https://github.com/azaruddinaskarali/Bearing-Faults-Detection-and-Classification/blob/main/REB.png?raw=true)
 
 
 
