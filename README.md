@@ -11,9 +11,9 @@ A typical rolling element bearing looks like:
 
 The key elements in rolling-element bearings are:
 
-Inner Race
-Outer Race
-Rolling Element
+-Inner Race
+-Outer Race
+-Rolling Element
 
 
 According to several studies (e.g. Thorson and Dalva (1995), Bonnett and Yung (2008), and IEEE (1985)) bearing faults are the major cause of failure in electro-mechanical drive systems and motors, causing an estimated 45-70% of all drive and motor failures. These failures are often expensive because of:
